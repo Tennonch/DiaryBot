@@ -1,0 +1,8 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+/.vs/WorkoutDiaryBot/FileContentIndex
+/.vs/WorkoutDiaryBot/CopilotIndices/17.14.1577.30250
+/.vs/WorkoutDiaryBot/v17
