@@ -9,3 +9,8 @@ prisma/dev.db
 prisma/dev.db-journal
 /.vs/WorkoutDiaryBot/CopilotIndices/17.14.1577.30250
 /.vs/WorkoutDiaryBot/FileContentIndex
+# Visual Studio
+.vs/
+obj/
+bin/
+.vscode/
