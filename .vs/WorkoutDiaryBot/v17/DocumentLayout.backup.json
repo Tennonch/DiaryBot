@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|f:\\visual studio\\projects\\workoutdiarybot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|f:\\visual studio\\projects\\workoutdiarybot\\utils\\parser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|solutionrelative:utils\\parser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|f:\\visual studio\\projects\\workoutdiarybot\\utils\\analyzer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|solutionrelative:utils\\analyzer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|f:\\visual studio\\projects\\workoutdiarybot\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|f:\\visual studio\\projects\\workoutdiarybot\\prisma\\schema.prisma||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F5D1DDF-3FE4-85B1-9981-AB4559848330}|WorkoutDiaryBot.esproj|solutionrelative:prisma\\schema.prisma||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "analyzer.js",
+              "DocumentMoniker": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\utils\\analyzer.js",
+              "RelativeDocumentMoniker": "utils\\analyzer.js",
+              "ToolTip": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\utils\\analyzer.js",
+              "RelativeToolTip": "utils\\analyzer.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T19:02:31.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "parser.js",
+              "DocumentMoniker": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\utils\\parser.js",
+              "RelativeDocumentMoniker": "utils\\parser.js",
+              "ToolTip": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\utils\\parser.js",
+              "RelativeToolTip": "utils\\parser.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T19:01:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T18:01:55.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "schema.prisma",
+              "DocumentMoniker": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\prisma\\schema.prisma",
+              "RelativeDocumentMoniker": "prisma\\schema.prisma",
+              "ToolTip": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\prisma\\schema.prisma",
+              "RelativeToolTip": "prisma\\schema.prisma",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-17T18:00:45.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "F:\\Visual studio\\projects\\WorkoutDiaryBot\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-17T17:56:35.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
